@@ -1,0 +1,5 @@
+{
+  "name": "SkyWings Flight Booking",
+  "description": "A complete online flight booking application with multi-page navigation, authentication, and booking flow.",
+  "requestFramePermissions": []
+}
